@@ -354,7 +354,7 @@ export default function App() {
                     <h4 className="text-lg font-bold text-gray-800">WhatsApp Pengurus</h4>
                     <p className="text-gray-600 mb-2">Hubungi kami via pesan WhatsApp untuk respon cepat.</p>
                     <a href="#" className="text-green-600 font-bold hover:underline text-lg">
-                      +62 8XX-XXXX-XXXX {/* Nanti ganti dengan nomor asli */}
+                      +62 85134033535 (Ketua PPGTM Klasis) {/* Nanti ganti dengan nomor asli */}
                     </a>
                   </div>
                 </div>
@@ -369,7 +369,7 @@ export default function App() {
                     <h4 className="text-lg font-bold text-gray-800">Email Resmi</h4>
                     <p className="text-gray-600 mb-2">Untuk keperluan persuratan dan dokumen resmi.</p>
                     <a href="mailto:sekretariat@ppgtm-bumal1.org" className="text-red-600 font-bold hover:underline text-lg">
-                      sekretariat@ppgtm-bumal1.org {/* Nanti ganti dengan email asli */}
+                      ppgtmklasisbuntumalangka1@gmail.com {/* Nanti ganti dengan email asli */}
                     </a>
                   </div>
                 </div>
