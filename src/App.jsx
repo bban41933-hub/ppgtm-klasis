@@ -369,7 +369,8 @@ export default function App() {
                     <h4 className="text-lg font-bold text-gray-800">Email Resmi</h4>
                     <p className="text-gray-600 mb-2">Untuk keperluan persuratan dan dokumen resmi.</p>
                     <a href="mailto:sekretariat@ppgtm-bumal1.org" className="text-red-600 font-bold hover:underline text-lg">
-                      ppgtmklasisbuntumalangka1@gmail.com {/* Nanti ganti dengan email asli */}
+                      ppgtmklasisbuntumalangka1 <br />
+                      @gmail.com {/* Nanti ganti dengan email asli */}
                     </a>
                   </div>
                 </div>
